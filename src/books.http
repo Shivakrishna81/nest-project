@@ -1,0 +1,9 @@
+GET http://localhost:3000/books
+### 
+
+//get by id 
+GET http://localhost:3000/books/7
+### 
+
+//delete by id 
+DELETE  http://localhost:3000/books/2 
